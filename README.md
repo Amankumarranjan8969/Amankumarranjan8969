@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="./AMAN-ascii.svg" width="370" alt="Aman Kumar Ranjan — ASCII portrait" />
+<img src="./avi-ascii.svg" width="370" alt="Aman Kumar Ranjan — ASCII portrait" />
 </td>
 
 <td valign="top">

@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="500"
+height="406"
+viewBox="0 0 500 406">
+
+<rect
+width="100%"
+height="100%"
+rx="14"
+fill="#0d1117"
+stroke="#30363d"/>
+
+<text
+x="25"
+y="35"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18"
+font-weight="bold">
+aman@github:~$
+</text>
+
+<text
+x="25"
+y="62"
+fill="#8b949e"
+font-family="monospace"
+font-size="13">
+./whoami
+</text>
+
+<style>
+.line {
+    animation: fade 0.5s ease-out forwards;
+    opacity: 0;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+        transform: translateX(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+</style>
+<text
+class="line"
+x="25"
+y="95"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.0s">
+USER
+</text>
+<text
+class="line"
+x="145"
+y="95"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.0s">
+Aman Kumar Ranjan
+</text>
+<text
+class="line"
+x="25"
+y="129"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.12s">
+ROLE
+</text>
+<text
+class="line"
+x="145"
+y="129"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.12s">
+CSE / Data Science
+</text>
+<text
+class="line"
+x="25"
+y="163"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.24s">
+FOCUS
+</text>
+<text
+class="line"
+x="145"
+y="163"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.24s">
+AI / ML / DL / RAG
+</text>
+<text
+class="line"
+x="25"
+y="197"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.36s">
+LANG
+</text>
+<text
+class="line"
+x="145"
+y="197"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.36s">
+Python • Java • JavaScript
+</text>
+<text
+class="line"
+x="25"
+y="231"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.48s">
+ML
+</text>
+<text
+class="line"
+x="145"
+y="231"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.48s">
+Scikit-learn • TensorFlow
+</text>
+<text
+class="line"
+x="25"
+y="265"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.6s">
+DL
+</text>
+<text
+class="line"
+x="145"
+y="265"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.6s">
+LSTM • GRU • Transformers
+</text>
+<text
+class="line"
+x="25"
+y="299"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.72s">
+DATA
+</text>
+<text
+class="line"
+x="145"
+y="299"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.72s">
+Pandas • NumPy • Matplotlib
+</text>
+<text
+class="line"
+x="25"
+y="333"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.84s">
+WEB
+</text>
+<text
+class="line"
+x="145"
+y="333"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.84s">
+MERN • PWA
+</text>
+<text
+class="line"
+x="25"
+y="367"
+fill="#79c0ff"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.96s">
+PROJECTS
+</text>
+<text
+class="line"
+x="145"
+y="367"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="13"
+style="animation-delay:0.96s">
+Digital Twin • RAG • Forecasting
+</text>
+</svg>
